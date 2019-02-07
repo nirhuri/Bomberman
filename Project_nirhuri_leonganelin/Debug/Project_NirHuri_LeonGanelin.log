@@ -1,0 +1,37 @@
+﻿  Bomb.cpp
+  Controller.cpp
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(252): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(327): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(370): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\controller.cpp(374): warning C4018: '<': signed/unsigned mismatch
+  Door.cpp
+  Guards.cpp
+  Menu.cpp
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\menu.cpp(145): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\menu.cpp(146): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\menu.cpp(147): warning C4305: 'argument': truncation from 'double' to 'float'
+  RandomGuards.cpp
+  Rock.cpp
+  SmartGuards.cpp
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\smartguards.cpp(119): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\smartguards.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\smartguards.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Wall.cpp
+  main.cpp
+c:\users\nir\documents\לימודים\תכנות\oop1\project\project_nirhuri_leonganelin\project_nirhuri_leonganelin\main.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project_NirHuri_LeonGanelin.vcxproj -> C:\Users\Nir\Documents\לימודים\תכנות\oop1\Project\Project_NirHuri_LeonGanelin\Debug\Project_NirHuri_LeonGanelin.exe
